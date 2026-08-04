@@ -1,4 +1,3 @@
-# Healthcare-Portal
 # 🏥 Healthcare and Telemedicine Portal
 
 ## 📌 Project Overview
